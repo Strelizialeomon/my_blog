@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7def4b2c-b542-4315-82bf-380caa3b2dbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="my_blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QfqOdrF34sTPywOlUlm238H6mU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysite" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\python\website\blog\templates\blog\erro" />
+      <recent name="D:\code\python\website\blog\templates" />
+      <recent name="D:\code\python\website\static" />
+      <recent name="D:\code\python\website\blog" />
+      <recent name="D:\code\python\website\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\website\static\css" />
+      <recent name="D:\code\python\website" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="website" type="Python.DjangoServer" factoryName="Django server">
+      <module name="website" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="website.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7def4b2c-b542-4315-82bf-380caa3b2dbb" name="Default Changelist" comment="" />
+      <created>1568171968277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568171968277</updated>
+      <workItem from="1568171970564" duration="2152000" />
+      <workItem from="1568209740887" duration="2887000" />
+      <workItem from="1568255668272" duration="599000" />
+      <workItem from="1568608280935" duration="1906000" />
+      <workItem from="1568614418300" duration="1545000" />
+      <workItem from="1568721157769" duration="5603000" />
+      <workItem from="1568728062047" duration="1336000" />
+      <workItem from="1569202712965" duration="6959000" />
+      <workItem from="1569462871596" duration="3228000" />
+      <workItem from="1569466622544" duration="2522000" />
+      <workItem from="1569560012631" duration="157000" />
+      <workItem from="1569560245843" duration="16000" />
+      <workItem from="1569635944353" duration="2091000" />
+      <workItem from="1569645521268" duration="5002000" />
+      <workItem from="1570012312013" duration="600000" />
+      <workItem from="1570535267619" duration="5446000" />
+      <workItem from="1570713065095" duration="17000" />
+      <workItem from="1570775230069" duration="3000" />
+      <workItem from="1570849101193" duration="20000" />
+      <workItem from="1571308066653" duration="819000" />
+      <workItem from="1571309243201" duration="2305000" />
+      <workItem from="1571644416650" duration="3271000" />
+      <workItem from="1571795306551" duration="95000" />
+      <workItem from="1573043667342" duration="45000" />
+      <workItem from="1573043753986" duration="117000" />
+      <workItem from="1573043884817" duration="10000" />
+      <workItem from="1573452291656" duration="716000" />
+      <workItem from="1573632151497" duration="854000" />
+      <workItem from="1574426560108" duration="338000" />
+      <workItem from="1574426934874" duration="20000" />
+      <workItem from="1575548696006" duration="850000" />
+      <workItem from="1575553238939" duration="204000" />
+      <workItem from="1575630618581" duration="1261000" />
+      <workItem from="1575633420816" duration="1623000" />
+      <workItem from="1575691228703" duration="1167000" />
+      <workItem from="1575700331211" duration="2668000" />
+      <workItem from="1575717060753" duration="1253000" />
+      <workItem from="1575719050905" duration="1862000" />
+      <workItem from="1575722467917" duration="3205000" />
+      <workItem from="1575728089282" duration="757000" />
+      <workItem from="1575730102713" duration="32000" />
+      <workItem from="1575730177633" duration="126000" />
+      <workItem from="1575877344035" duration="2450000" />
+      <workItem from="1575895707141" duration="748000" />
+      <workItem from="1575961024342" duration="1958000" />
+      <workItem from="1575983728014" duration="599000" />
+      <workItem from="1576025275025" duration="1388000" />
+      <workItem from="1576040165356" duration="1431000" />
+      <workItem from="1576045556394" duration="833000" />
+      <workItem from="1576069340803" duration="608000" />
+      <workItem from="1576125734582" duration="3608000" />
+      <workItem from="1576225398042" duration="305000" />
+      <workItem from="1576564669227" duration="659000" />
+      <workItem from="1576633592755" duration="615000" />
+      <workItem from="1576677043560" duration="884000" />
+      <workItem from="1576730126255" duration="628000" />
+      <workItem from="1576753383555" duration="1218000" />
+      <workItem from="1576989423549" duration="599000" />
+      <workItem from="1577076938247" duration="3043000" />
+      <workItem from="1577101287848" duration="408000" />
+      <workItem from="1577101721030" duration="306000" />
+      <workItem from="1577102041598" duration="846000" />
+      <workItem from="1577103236332" duration="643000" />
+      <workItem from="1577103970272" duration="582000" />
+      <workItem from="1577105182388" duration="5402000" />
+      <workItem from="1577112481380" duration="1732000" />
+      <workItem from="1577155242966" duration="3146000" />
+      <workItem from="1577166744209" duration="1678000" />
+      <workItem from="1577175186938" duration="1160000" />
+      <workItem from="1577189768398" duration="2979000" />
+      <workItem from="1577240250622" duration="861000" />
+      <workItem from="1577267539896" duration="657000" />
+      <workItem from="1577324600724" duration="7419000" />
+      <workItem from="1577376384867" duration="180000" />
+      <workItem from="1577376616852" duration="594000" />
+      <workItem from="1577415790516" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1577415922385">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1577415922385" />
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom" timestamp="1577112447771">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1577112447771" />
+    <state width="2005" height="184" key="GridCell.Tab.0.center" timestamp="1577112447771">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="184" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1577112447771" />
+    <state width="2005" height="184" key="GridCell.Tab.0.left" timestamp="1577112447771">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="184" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1577112447771" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right" timestamp="1577112447771">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="184" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1577112447771" />
+    <state x="526" y="198" key="SettingsEditor" timestamp="1575730133944">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="198" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1575730133944" />
+  </component>
+</project>
